@@ -1,0 +1,99 @@
+{
+  "cafe_name": "Café Palu",
+  "menu_categories": [
+    {
+      "category": "Coffee & Hot Drinks",
+      "items": [
+        {
+          "name": "Kaffee Crema",
+          "description": "Our signature coffee blend, smooth and aromatic",
+          "price": "€2.50",
+          "featured": true
+        },
+        {
+          "name": "Espresso",
+          "description": "Classic Italian espresso",
+          "price": "€2.00"
+        },
+        {
+          "name": "Cappuccino",
+          "description": "Espresso with steamed milk and foam",
+          "price": "€3.20"
+        },
+        {
+          "name": "Latte Macchiato",
+          "description": "Layered espresso with milk",
+          "price": "€3.50"
+        },
+        {
+          "name": "Turkish Coffee",
+          "description": "Traditional Turkish coffee",
+          "price": "€2.80"
+        },
+        {
+          "name": "Turkish Tea (Çay)",
+          "description": "Authentic Turkish black tea",
+          "price": "€2.00"
+        }
+      ]
+    },
+    {
+      "category": "Homemade Cakes & Pastries",
+      "items": [
+        {
+          "name": "Daily Homemade Cake",
+          "description": "All our cakes are baked fresh daily in-house",
+          "price": "€3.50",
+          "featured": true
+        },
+        {
+          "name": "Baklava",
+          "description": "Sweet Turkish pastry with nuts and honey",
+          "price": "€3.80"
+        },
+        {
+          "name": "Börek",
+          "description": "Savory Turkish pastry filled with cheese or spinach",
+          "price": "€4.20"
+        }
+      ]
+    },
+    {
+      "category": "Baguettes & Rolls",
+      "items": [
+        {
+          "name": "Filled Baguette",
+          "description": "Fresh baguette with your choice of fillings - cheese, turkey, salami, vegetables",
+          "price": "€4.50-€5.50",
+          "featured": true
+        },
+        {
+          "name": "Grain Roll",
+          "description": "Healthy multi-grain roll with fresh fillings",
+          "price": "€3.80-€4.50"
+        }
+      ]
+    },
+    {
+      "category": "Turkish Specialties",
+      "items": [
+        {
+          "name": "Menemen",
+          "description": "Turkish scrambled eggs with tomatoes and peppers",
+          "price": "€6.50"
+        },
+        {
+          "name": "Gözleme",
+          "description": "Turkish flatbread filled with cheese, spinach, or meat",
+          "price": "€5.80"
+        }
+      ]
+    }
+  ],
+  "dietary_options": [
+    "Vegetarian options available",
+    "Fresh daily preparation",
+    "Custom filling requests welcome"
+  ],
+  "special_note": "All cakes and pastries are made fresh daily in our kitchen"
+}

@@ -1,0 +1,51 @@
+{
+  "cafe_name": "Café Palu",
+  "google_rating": "4.8/5",
+  "total_reviews": "50+",
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Palu&query_place_id=ChIJ8eUFQbxbqEcRSZJQDpqVvsw",
+  "reviews": [
+    {
+      "author": "Local Customer",
+      "rating": 5,
+      "text": "Very good selection of filled baguettes and rolls with grains. The Kaffee Crema is very tasty. The cakes are very delicious and all homemade. When the weather permits, there is comfortable seating under an awning in front of the shop.",
+      "date": "2024",
+      "language": "de"
+    },
+    {
+      "author": "Regular Visitor",
+      "rating": 5,
+      "text": "Cozy and delicious, fair prices and friendly service. I enjoy visiting regularly.",
+      "date": "2024",
+      "language": "de"
+    },
+    {
+      "author": "Coffee Enthusiast",
+      "rating": 5,
+      "text": "Delicious coffee from a good coffee machine. Nice, friendly staff.",
+      "date": "2024",
+      "language": "de"
+    },
+    {
+      "author": "Berlin Local",
+      "rating": 5,
+      "text": "Beautiful café that is recommended. There's a small nook with bar stools where you can hide and dream of New York.",
+      "date": "2024",
+      "language": "de"
+    },
+    {
+      "author": "Customer",
+      "rating": 4,
+      "text": "Good coffee and homemade cakes. The atmosphere is warm and welcoming.",
+      "date": "2024",
+      "language": "de"
+    }
+  ],
+  "highlights": [
+    "Homemade cakes",
+    "Quality coffee",
+    "Filled baguettes",
+    "Friendly service",
+    "Fair prices",
+    "Outdoor seating"
+  ]
+}
